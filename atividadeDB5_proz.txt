@@ -1,0 +1,28 @@
+A imagem representa a arquitetura cliente-servidor, que é um modelo de computação 
+amplamente utilizado em redes de computadores. Aqui está uma explicação mais detalhada:
+
+Cliente: O cliente é um dispositivo ou aplicativo que solicita serviços ou recursos de 
+um servidor. Isso pode ser um computador, smartphone, tablet ou qualquer outro 
+dispositivo conectado à rede.
+
+Servidor: O servidor é um computador ou sistema que fornece serviços ou recursos aos clientes. 
+Ele recebe as solicitações dos clientes, processa essas solicitações e envia de volta as respostas 
+ou os resultados. O servidor pode fornecer serviços como hospedagem de sites, armazenamento de 
+arquivos, acesso a banco de dados, entre outros.
+
+
+Comunicação: A seta -----> representa a comunicação entre o cliente e o servidor. Essa comunicação 
+ocorre por meio de protocolos de rede, como HTTP, TCP/IP, entre outros, que permitem que os clientes 
+enviem solicitações e recebam respostas do servidor.
+Modelo de Processamento: Na arquitetura cliente-servidor, o servidor é responsável pelo processamento 
+das solicitações dos clientes. Ele executa as operações solicitadas pelos clientes e retorna os resultados. 
+Os clientes, por sua vez, utilizam esses resultados de acordo com suas necessidades.
+
+Divisão de Responsabilidades: Nesse modelo, há uma clara divisão de responsabilidades entre clientes e 
+servidor. O servidor fornece os recursos ou serviços solicitados pelos clientes, enquanto os clientes 
+utilizam esses recursos de acordo com suas necessidades.
+
+
+Escalabilidade: A arquitetura cliente-servidor é escalável, o que significa que é possível adicionar mais 
+clientes e servidores à rede para atender a uma maior demanda por serviços ou recursos. Isso permite que 
+a arquitetura seja flexível e capaz de lidar com diferentes níveis de carga de trabalho.
